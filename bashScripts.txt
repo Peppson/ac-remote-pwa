@@ -1,0 +1,11 @@
+// upload USB
+
+cd /c/Users/jw_jw/Documents/PlatformIO/Projects/IR-Test && { taskkill //F //IM python.exe 2>/dev/null; "/c/Users/jw_jw/.platformio/penv/Scripts/platformio.exe" run --target upload --target monitor; }
+
+
+
+
+// upload OTA
+
+cd /c/Users/jw_jw/Documents/PlatformIO/Projects/IR-Test && { taskkill //F //IM python.exe 2>/dev/null; "/c/Users/jw_jw/.platformio/penv/Scripts/platformio.exe" run --environment wemos_d1_uno32_ota --target upload; }
+
