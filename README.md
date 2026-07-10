@@ -39,7 +39,7 @@ IR diode is in front of the AC, while the device is to the right.
 
 ## Notes
 - IR timing and protocol details are tuned for this specific AC unit.
-- Includes a small C# checksum cracker in [CheckSumCracker/](CheckSumCracker/) used during reverse engineering.
+- Includes a small C# checksum cracker in [checksumCracker/](checksumCracker/) used during reverse engineering.
 
 
 <br>
