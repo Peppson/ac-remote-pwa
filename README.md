@@ -9,14 +9,7 @@ Keeps all clients (usually just my phone and desktop) in sync over Websockets.
 
 ## PWA / App
 <div align="center">
-  <video
-    src="https://github.com/user-attachments/assets/26912659-2e06-457c-9699-3ccbce801512"
-    width="800"
-    autoplay
-    loop
-    muted
-    playsinline>
-  </video>
+  <img src="images/app/pwa.png">
 </div>
 
 
